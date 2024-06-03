@@ -60,5 +60,6 @@ nav {
   padding: 20px;
 }
 
-article > div > ol> li {text-align:center;
-                       flex: center;}
+article > div > {text-align:center;}
+ol {flex-direction:column;}
+li {text-align:center;}
