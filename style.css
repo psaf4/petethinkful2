@@ -60,4 +60,4 @@ nav {
   padding: 20px;
 }
 
-article > div > ol {text-align:center;}
+article > div > ol> li {text-align:center;}
